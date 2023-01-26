@@ -1,0 +1,6 @@
+class Tubo {
+    // Propiedades
+    constructor() {
+        
+    }
+}

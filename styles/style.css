@@ -22,4 +22,13 @@ body {
   justify-content: center;
   align-items: center;
   margin: 50px;
+  /* height: 100vh; */
+}
+
+#my-canvas {
+  display: none;
+}
+
+#gameover-screen {
+  display: none;
 }

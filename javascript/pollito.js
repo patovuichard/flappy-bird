@@ -1,0 +1,6 @@
+class Pollito {
+    // Propiedades
+    constructor() {
+        
+    }
+}
